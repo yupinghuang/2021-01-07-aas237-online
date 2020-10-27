@@ -2,6 +2,9 @@
 # Values for this workshop.
 #------------------------------------------------------------
 
+# More detailed instructions are available at:
+# https://carpentries.github.io/workshop-template/customization/index.html
+
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
 # swc: Software Carpentry
 #  dc: Data Carpentry
@@ -51,12 +54,12 @@ kind: "workshop"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-# (Don't change this -- the contact address for your workshop will be set 
+# (Don't change this -- the contact address for your workshop will be set
 # in the index.md file)
 email: "team@carpentries.org"
 
 # Sites.
-amy_site: "https://amy.carpentries.org/workshops"
+amy_site: "https://amy.carpentries.org"
 carpentries_github: "https://github.com/carpentries"
 carpentries_pages: "https://carpentries.github.io"
 carpentries_site: "https://carpentries.org/"
