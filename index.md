@@ -242,7 +242,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use our Slack workspace for chatting, taking notes, and sharing URLs and bits of code. You should have received the Slack invite link.
 </p>
 <hr/>
 {% endif %}
